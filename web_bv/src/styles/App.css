@@ -7,7 +7,9 @@ div.app {
 }
 
 header {
-  flex-basis: 30vh;
+  flex-basis: 40vh;
+  position: relative;
+  overflow: hidden;
 }
 
 main {
