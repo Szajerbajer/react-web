@@ -22,16 +22,3 @@ nav.main a:hover {
 nav.main a.active {
   transform: translateX(0);
 }
-
-nav.main li:nth-child(1) a.active {
-  border-left-color: greenyellow;
-}
-nav.main li:nth-child(2) a.active {
-  border-left-color: darkorange;
-}
-nav.main li:nth-child(3) a.active {
-  border-left-color: slateblue;
-}
-nav.main li:nth-child(4) a.active {
-  border-left-color: crimson;
-}
