@@ -20,7 +20,6 @@ nav.main a:hover {
 }
 
 nav.main a.active {
-  border-left: 10px firebrick solid;
   transform: translateX(0);
 }
 
