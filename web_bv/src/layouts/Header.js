@@ -19,7 +19,7 @@ const Header = () => {
           render={() => <img src={img2} alt="volleyball" />}
         />
         <Route
-          path="/product"
+          path="/products"
           render={() => <img src={img3} alt="volleyball" />}
         />
         <Route render={() => <img src={img1} alt="volleyball" />} />
