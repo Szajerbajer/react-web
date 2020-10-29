@@ -1,0 +1,9 @@
+footer span {
+  color: greenyellow;
+  text-transform: uppercase;
+}
+
+footer p {
+  font-size: 15px;
+  color: rgb(9, 1, 39);
+}
